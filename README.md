@@ -9,5 +9,5 @@ Python, SQL, Pandas, Numpy, Scikit-learn, CatBoost, LightGBM, Matplotlib, Seabor
 As well as mathematical analysis, linear algebra, statistics, probability theory, machine learning.
 
 **Connect with me:**\
-[Email](https://t.me/reshetov_tech "solomon-market@yandex.ru") 
+[Email](solomon-market@yandex.ru "solomon-market@yandex.ru") 
 [Telegram](https://t.me/reshetov_tech)
