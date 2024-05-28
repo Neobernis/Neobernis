@@ -2,7 +2,7 @@
 
 #### I'm a Data Scientist.
 
-Student Yandex.Practicum. Completed more 14 cases in the domains of IT-companies, banks and internet services. Considering a job offer in this field.
+Completed the course Yandex.Practicum "Data Science". I have more 14 cases in the domains of IT-companies, banks and internet services. Considering a job offer in this field.
 
 **Stack:**\
 Python, SQL, Pandas, Numpy, Scikit-learn, CatBoost, LightGBM, Matplotlib, Seaborn, SciPy, TensorFlow, PyTorch.\
